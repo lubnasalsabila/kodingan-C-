@@ -1,0 +1,12 @@
+************************************* Invoked: Wed Nov 16 09:21:46 2022
+[0] Arguments: C:\Users\User-001\Documents\download css\msys2-x86_64-20220603.exe
+[155] Operations sanity check succeeded.
+[239] Warning: Cannot create lock file "C:\Users\User-001\AppData\Local\Temp\msys2-x86_64-202206031234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[896] UnableToStart : Unable to start installer : Another msys2-x86_64-20220603 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Wed Nov 16 09:42:53 2022
+[0] Arguments: C:\Users\User-001\Documents\download css\msys2-x86_64-20220603.exe
+[155] Operations sanity check succeeded.
+[156] Warning: Cannot create lock file "C:\Users\User-001\AppData\Local\Temp\msys2-x86_64-202206031234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[335] UnableToStart : Unable to start installer : Another msys2-x86_64-20220603 instance is already running. Wait until it finishes, close it, or restart your system.
